@@ -17,7 +17,8 @@ pal_news.zip
 public/ww.php
 public/ajax.html
 salon.zip
-storage/
+/public/storage
+/storage/*.key
 public/
 !public/index.php
 !public/mix-manifest.json
