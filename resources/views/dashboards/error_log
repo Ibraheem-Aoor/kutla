@@ -1,0 +1,20 @@
+[19-Aug-2018 07:27:20 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\ActionRole' not found in /home/mediatech/public_html/resources/views/dashboards/index.blade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/dashboards/index.blade.php on line 6
+[19-Aug-2018 10:37:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\ActionRole' not found in /home/mediatech/public_html/resources/views/dashboards/index.blade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/dashboards/index.blade.php on line 6
+[19-Aug-2018 10:37:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\ActionRole' not found in /home/mediatech/public_html/resources/views/dashboards/index.blade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/dashboards/index.blade.php on line 6
+[19-Aug-2018 10:37:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\ActionRole' not found in /home/mediatech/public_html/resources/views/dashboards/index.blade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/dashboards/index.blade.php on line 6
+[19-Aug-2018 13:46:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\ActionRole' not found in /home/mediatech/public_html/resources/views/dashboards/index.blade.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/dashboards/index.blade.php on line 6

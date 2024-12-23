@@ -1,0 +1,60 @@
+[19-Aug-2018 07:27:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/index.blade.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/index.blade.php on line 92
+[19-Aug-2018 07:27:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/user.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/user.blade.php on line 77
+[19-Aug-2018 07:27:17 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/site.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/site.blade.php on line 77
+[19-Aug-2018 10:27:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/site.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/site.blade.php on line 77
+[19-Aug-2018 10:27:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/site.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/site.blade.php on line 77
+[19-Aug-2018 10:27:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/site.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/site.blade.php on line 77
+[19-Aug-2018 10:27:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/user.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/user.blade.php on line 77
+[19-Aug-2018 10:27:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/user.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/user.blade.php on line 77
+[19-Aug-2018 10:27:46 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/user.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/user.blade.php on line 77
+[19-Aug-2018 10:27:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/index.blade.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/index.blade.php on line 92
+[19-Aug-2018 10:27:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/index.blade.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/index.blade.php on line 92
+[19-Aug-2018 10:27:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/index.blade.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/index.blade.php on line 92
+[19-Aug-2018 13:46:50 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/user.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/user.blade.php on line 77
+[19-Aug-2018 13:46:50 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/site.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/site.blade.php on line 77
+[19-Aug-2018 13:46:50 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Setting' not found in /home/mediatech/public_html/resources/views/pdf/index.blade.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/mediatech/public_html/resources/views/pdf/index.blade.php on line 92

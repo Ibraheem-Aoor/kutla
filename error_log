@@ -1,0 +1,217 @@
+[18-Oct-2024 17:02:37 Asia/Gaza] PHP Fatal error:  Cannot redeclare App\Exceptions\Handler::report() in /home/alkutla/public_html/system/app/Exceptions/Handler.php on line 55
+[18-Oct-2024 17:02:37 Asia/Gaza] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make('App\\ in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[18-Oct-2024 17:02:46 Asia/Gaza] PHP Fatal error:  Cannot redeclare App\Exceptions\Handler::report() in /home/alkutla/public_html/system/app/Exceptions/Handler.php on line 55
+[18-Oct-2024 17:02:46 Asia/Gaza] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make('App\\ in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[18-Oct-2024 17:03:05 Asia/Gaza] PHP Fatal error:  Cannot redeclare App\Exceptions\Handler::report() in /home/alkutla/public_html/system/app/Exceptions/Handler.php on line 55
+[18-Oct-2024 17:03:05 Asia/Gaza] PHP Fatal error:  Uncaught ReflectionException: Class App\Exceptions\Handler does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make('App\\ in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[18-Oct-2024 14:03:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[18-Oct-2024 14:03:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 885
+[18-Oct-2024 14:03:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[18-Oct-2024 14:03:22 UTC] PHP Deprecated:  Method ReflectionParameter::getClass() is deprecated in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 885
+[18-Oct-2024 17:03:22 Asia/Gaza] PHP Fatal error:  Cannot redeclare App\Exceptions\Handler::report() in /home/alkutla/public_html/system/app/Exceptions/Handler.php on line 55
+[18-Oct-2024 17:03:22 Asia/Gaza] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(749): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#6 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build(Object(Closure))
+#7 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array)
+#8 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(101): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(87): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(ReflectionException))
+#12 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ReflectionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 08:07:24 UTC] PHP Warning:  require(/home/alkutla/public_html/system/vendor/autoload.php): failed to open stream: No such file or directory in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:07:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/alkutla/public_html/system/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:07:44 UTC] PHP Warning:  require(/home/alkutla/public_html/system/vendor/autoload.php): failed to open stream: No such file or directory in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:07:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/alkutla/public_html/system/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:07:44 UTC] PHP Warning:  require(/home/alkutla/public_html/system/vendor/autoload.php): failed to open stream: No such file or directory in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:07:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/alkutla/public_html/system/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:07:45 UTC] PHP Warning:  require(/home/alkutla/public_html/system/vendor/autoload.php): failed to open stream: No such file or directory in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:07:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/alkutla/public_html/system/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/alkutla/public_html/system/artisan on line 18
+[19-Oct-2024 08:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "LaravelFCM\FCMServiceProvider" not found in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:745
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(679): Illuminate\Foundation\Application->resolveProvider('LaravelFCM\\FCMS...')
+#1 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register('LaravelFCM\\FCMS...')
+#2 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#3 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 745
+[19-Oct-2024 08:41:58 UTC] PHP Fatal error:  Uncaught Error: Class "LaravelFCM\FCMServiceProvider" not found in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:745
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(679): Illuminate\Foundation\Application->resolveProvider('LaravelFCM\\FCMS...')
+#1 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register('LaravelFCM\\FCMS...')
+#2 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#3 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 745
+[19-Oct-2024 08:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "LaravelFCM\FCMServiceProvider" not found in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:635
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(582): Illuminate\Foundation\Application->resolveProvider('LaravelFCM\\FCMS...')
+#1 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register('LaravelFCM\\FCMS...')
+#2 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#3 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 635
+[19-Oct-2024 08:51:51 UTC] PHP Fatal error:  Uncaught Error: Class "LaravelFCM\FCMServiceProvider" not found in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:635
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(582): Illuminate\Foundation\Application->resolveProvider('LaravelFCM\\FCMS...')
+#1 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register('LaravelFCM\\FCMS...')
+#2 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#3 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 635
+[19-Oct-2024 08:52:47 UTC] PHP Fatal error:  Uncaught Error: Class "LaravelFCM\FCMServiceProvider" not found in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:635
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(582): Illuminate\Foundation\Application->resolveProvider('LaravelFCM\\FCMS...')
+#1 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register('LaravelFCM\\FCMS...')
+#2 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#3 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 635
+[19-Oct-2024 08:53:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.30". You are running 7.4.33. in /home/alkutla/public_html/system/vendor/composer/platform_check.php on line 24
+[19-Oct-2024 08:53:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.30". You are running 7.4.33. in /home/alkutla/public_html/system/vendor/composer/platform_check.php on line 24
+[19-Oct-2024 08:53:44 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.30". You are running 7.4.33. in /home/alkutla/public_html/system/vendor/composer/platform_check.php on line 24
+[19-Oct-2024 08:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "LaravelFCM\FCMServiceProvider" not found in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:635
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(582): Illuminate\Foundation\Application->resolveProvider('LaravelFCM\\FCMS...')
+#1 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register('LaravelFCM\\FCMS...')
+#2 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#3 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 635
+[19-Oct-2024 08:56:20 UTC] PHP Fatal error:  Uncaught Error: Class 'LaravelFCM\FCMServiceProvider' not found in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:635
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(582): Illuminate\Foundation\Application->resolveProvider('LaravelFCM\\FCMS...')
+#1 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register('LaravelFCM\\FCMS...')
+#2 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#3 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 635
+[19-Oct-2024 08:57:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "config" does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(1195): Illuminate\Foundation\Application->make('config')
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(57): Illuminate\Container\Container->offsetGet('config')
+#6 /home/alkutla/public_html/system/vendor/brozot/laravel-fcm/src/FCMServiceProvider.php(28): Illuminate\Support\ServiceProvider->mergeConfigFrom('/home/alkutla/p...', 'fcm')
+#7 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(586): LaravelFCM\FCMServiceProvider->register()
+#8 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register(Object(LaravelFCM\FCMServiceProvider))
+#9 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#10 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 08:59:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(1195): Illuminate\Foundation\Application->make('config')
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Il in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 08:59:14 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(1195): Illuminate\Foundation\Application->make('config')
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Il in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 08:59:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "config" does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(1195): Illuminate\Foundation\Application->make('config')
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(57): Illuminate\Container\Container->offsetGet('config')
+#6 /home/alkutla/public_html/system/vendor/brozot/laravel-fcm/src/FCMServiceProvider.php(28): Illuminate\Support\ServiceProvider->mergeConfigFrom('/home/alkutla/p...', 'fcm')
+#7 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(586): LaravelFCM\FCMServiceProvider->register()
+#8 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register(Object(LaravelFCM\FCMServiceProvider))
+#9 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#10 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 09:00:17 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Composer" not found in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php:131
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/nesbot/carbon/bin/upgrade-carbon(28): Carbon\Upgrade::upgrade()
+#1 /home/alkutla/public_html/system/vendor/bin/upgrade-carbon(119): include('/home/alkutla/p...')
+#2 {main}
+  thrown in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php on line 131
+[19-Oct-2024 09:00:27 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(1195): Illuminate\Foundation\Application->make('config')
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Il in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 09:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Composer" not found in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php:131
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/nesbot/carbon/bin/upgrade-carbon(28): Carbon\Upgrade::upgrade()
+#1 /home/alkutla/public_html/system/vendor/bin/upgrade-carbon(119): include('/home/alkutla/p...')
+#2 {main}
+  thrown in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php on line 131
+[19-Oct-2024 09:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Composer" not found in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php:131
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/nesbot/carbon/bin/upgrade-carbon(28): Carbon\Upgrade::upgrade()
+#1 /home/alkutla/public_html/system/vendor/bin/upgrade-carbon(119): include('/home/alkutla/p...')
+#2 {main}
+  thrown in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php on line 131
+[19-Oct-2024 09:03:09 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "config" does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(1195): Illuminate\Foundation\Application->make('config')
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(57): Illuminate\Container\Container->offsetGet('config')
+#6 /home/alkutla/public_html/system/vendor/brozot/laravel-fcm/src/FCMServiceProvider.php(28): Illuminate\Support\ServiceProvider->mergeConfigFrom('/home/alkutla/p...', 'fcm')
+#7 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(586): LaravelFCM\FCMServiceProvider->register()
+#8 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register(Object(LaravelFCM\FCMServiceProvider))
+#9 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#10 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 09:03:15 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Composer" not found in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php:131
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/nesbot/carbon/bin/upgrade-carbon(28): Carbon\Upgrade::upgrade()
+#1 /home/alkutla/public_html/system/vendor/bin/upgrade-carbon(119): include('/home/alkutla/p...')
+#2 {main}
+  thrown in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php on line 131
+[19-Oct-2024 09:04:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "config" does not exist in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(1195): Illuminate\Foundation\Application->make('config')
+#5 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(57): Illuminate\Container\Container->offsetGet('config')
+#6 /home/alkutla/public_html/system/vendor/brozot/laravel-fcm/src/FCMServiceProvider.php(28): Illuminate\Support\ServiceProvider->mergeConfigFrom('/home/alkutla/p...', 'fcm')
+#7 /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(586): LaravelFCM\FCMServiceProvider->register()
+#8 /home/alkutla/public_html/system/bootstrap/app.php(54): Illuminate\Foundation\Application->register(Object(LaravelFCM\FCMServiceProvider))
+#9 /home/alkutla/public_html/system/artisan(20): require_once('/home/alkutla/p...')
+#10 {main}
+  thrown in /home/alkutla/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[19-Oct-2024 09:04:47 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Composer" not found in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php:131
+Stack trace:
+#0 /home/alkutla/public_html/system/vendor/nesbot/carbon/bin/upgrade-carbon(28): Carbon\Upgrade::upgrade()
+#1 /home/alkutla/public_html/system/vendor/bin/upgrade-carbon(119): include('/home/alkutla/p...')
+#2 {main}
+  thrown in /home/alkutla/public_html/system/vendor/nesbot/carbon/src/Carbon/Upgrade.php on line 131
